@@ -26,11 +26,11 @@
 <div align="center">
   <a href="mailto:codewithmugilan@gmail.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscUIClry78WkmKbwDQQNG8GkcAFxnQgb5b_kuE3kB5W3UhZRw4CNGO22jGw&s"
-      alt=mail style="margin-bottom: 5px; height: 28px; width: 50px; padding-right: 10px;" />
+      alt=mail style="margin-bottom: 5px; height: 28px; width: 50px; padding-right: 10px;" >
     </a>
 
   <a href="tel:+917671085496" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZ3xUEL66XE9131U3bQ8U8-LVSbqj70Jesg&usqp=CAU"
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZ3xUEL66XE9131U3bQ8U8-LVSbqj70Jesg&usqp=CAU" 
       style="margin-bottom: 5px; height:28px; width: 30px;" />
   </a>
     <a href="https://github.com/P-J-Mugilan" target="_blank">

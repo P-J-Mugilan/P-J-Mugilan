@@ -29,7 +29,7 @@
       alt=mail style="margin-bottom: 5px; height: 28px; width: 50px; padding-right: 10px;" />
     </a>
 
-  <a href="tel:7671085496" target="_blank">
+  <a href="tel:+917671085496" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZ3xUEL66XE9131U3bQ8U8-LVSbqj70Jesg&usqp=CAU"
       style="margin-bottom: 5px; height:28px; width: 30px;" />
   </a>

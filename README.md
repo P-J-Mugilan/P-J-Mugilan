@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" align="center" style="width: 100%; height:200px;" />
+<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" align="center" style="width: 100%; height:200px;" alt="SVG_Image"/>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!%20Code.%20;Create%20Collaborate%20Crafting%20Code.%20Building%20Dreams.;High%20Coding%20level%20and%20Clean%20Code&font=VT323&center=true&width=750&height=120&color=00308F&vCenter=true&size=36" alt="svg_Image"></p>
 <h1 align="center">Hi 👋, I'm P J Mugilan</h1>

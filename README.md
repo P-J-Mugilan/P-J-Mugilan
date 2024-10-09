@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, Networking**
 
-- 👨‍💻 All of my projects are available at [https://pjmugilan.000webhostapp.com/](https://pjmugilan.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://pjmugilan.netlify.app/](https://pjmugilan.netlify.app/)
 
 - 💬 Ask me about **Java, Python, Full Stack Development**
 
 - 📫 How to reach me **codewithmugilan@gmail.com**
 
-- 📄 Know about my experiences [https://pjmugilan.000webhostapp.com/](https://pjmugilan.000webhostapp.com/)
+- 📄 Know about my experiences [https://pjmugilan.netlify.app/](https://pjmugilan.netlify.app/)
 
 - ⚡ Fun fact **Sometimes I feel like my code is secretly plotting against me**
 

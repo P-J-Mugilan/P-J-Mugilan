@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, Networking**
 
-- 👨‍💻 All of my projects are available at [https://pjmugilan.netlify.app/](https://pjmugilan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pjmugilan.onrender.com/](https://pjmugilan.onrender.com/)
 
 - 💬 Ask me about **Java, Python, Full Stack Development**
 

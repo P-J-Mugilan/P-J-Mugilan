@@ -20,7 +20,7 @@
 
 ## 🎯 Professional Overview
 
-Backend Software Engineer specializing in **enterprise-grade Java applications** and **distributed systems architecture**. Currently architecting scalable microservices at **Resulticks Edge Solution Technologies**, with a proven track record of delivering high-performance backend solutions that handle production-level traffic and complex business requirements.
+Backend Software Engineer specializing in **enterprise-grade Java applications** and **distributed systems architecture**. Currently architecting scalable microservices at **Voltstream Stream Technologies Private Limited**, with a proven track record of delivering high-performance backend solutions that handle production-level traffic and complex business requirements.
 
 My engineering philosophy centers on **writing maintainable, testable code** that scales efficiently while maintaining system reliability. I bring expertise in designing RESTful APIs, implementing robust security frameworks, and optimizing database performance in demanding production environments.
 
@@ -56,8 +56,8 @@ My engineering philosophy centers on **writing maintainable, testable code** tha
 
 ## 💼 Professional Experience
 
-### **Backend Software Engineer** | Resulticks Edge Solution Technologies
-**Chennai, India** | *December 2023 - Present*
+### **Software Developer** | Voltstream Technologies Private Limited
+**Bangalore, India** | *March 2024 - March 2026*
 
 Leading backend development initiatives for enterprise-scale applications, focusing on microservices architecture and API-first design principles.
 
